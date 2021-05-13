@@ -1,0 +1,1 @@
+1. Pls run the app.py using python app.py command to start flask server.
